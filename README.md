@@ -1,6 +1,6 @@
 # Tymonyz - Generador Automático de Videos de Noticias para TikTok
 
-Este proyecto automatiza la creación y subida de videos de noticias a TikTok, utilizando IA para generar narraciones y procesamiento de video para crear contenido atractivo. Actualmente sube las 5 noticias mas importantes del dia, en Argentina. Cuenta: https://www.tiktok.com/@argnewsia
+Este proyecto automatiza la creación y subida de videos de noticias a TikTok, utilizando IA para generar narraciones y procesamiento de video para crear contenido atractivo. Estuvo en producción subiendo las 5 noticias más importantes del día en Argentina. Cuenta: https://www.tiktok.com/@argnewsia
 
 > **Nota importante**: Este proyecto utiliza el módulo [TikTok-Auto-Uploader](https://github.com/makiisthenes/TiktokAutoUploader) para la funcionalidad de subida de videos a TikTok. Este módulo es una dependencia externa y mantiene su propia licencia y términos de uso.
 
@@ -28,7 +28,7 @@ Este proyecto automatiza la creación y subida de videos de noticias a TikTok, u
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/brancorc/tymonyz.git
+git clone https://github.com/BrancoBlunda/Tymonyz.git
 cd tymonyz
 ```
 
@@ -104,7 +104,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autor
 
-- **Branco** - [brancorc](https://github.com/brancorc)
+- **Branco Blunda** · [GitHub](https://github.com/BrancoBlunda) · [Portafolio](https://brancoblunda.github.io)
 
 ## 🙏 Agradecimientos
 
